@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881928622571",
+    "firebase_url": "https://ecom-a3351.firebaseio.com",
+    "project_id": "ecom-a3351",
+    "storage_bucket": "ecom-a3351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881928622571:android:f7cb6fbf505ac8cd",
+        "android_client_info": {
+          "package_name": "com.yasir.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881928622571-o3jm36d1knbsl1dj06rhkuq23rcjvot4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasir.ecom",
+            "certificate_hash": "6db061e9ddc3e03ba4a4c0f601d2a6c12d00c5c8"
+          }
+        },
+        {
+          "client_id": "881928622571-tuv06jgpe3l99104un08jk5fdme6sfc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85HOWs0-O2Unj5bwVo7lxXhUbIdDEYYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881928622571-tuv06jgpe3l99104un08jk5fdme6sfc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
